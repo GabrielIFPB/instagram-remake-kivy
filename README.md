@@ -1,1 +1,1 @@
-# instagram-remake-kivy
+# Instagram Remake Kivy
